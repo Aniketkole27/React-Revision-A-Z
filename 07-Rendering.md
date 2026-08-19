@@ -1,7 +1,3 @@
-**Grammar correction:**
-
-> “Now cover Section 7: Rendering with definitions, explanations, real-life examples, and code examples in the same `.md` format.”
-
 # React A→Z Revision
 
 **Phase 7 — Rendering 🔄**
